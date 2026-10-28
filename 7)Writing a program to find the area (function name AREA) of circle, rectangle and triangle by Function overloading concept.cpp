@@ -5,7 +5,7 @@ using namespace std;
 // Function overloading: same function name "AREA",
 // different parameter list
 
-// 1 argument -> Circle (radius)
+// Circle (radius)
 float AREA(float radius)
 {
     return 3.14159f * radius * radius;
