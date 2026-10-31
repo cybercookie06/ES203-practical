@@ -20,7 +20,7 @@ for (i=0; i < length; i++)
 }
 }
 if (flag) { 
- cout << string1 << "is not a Palindrome" << endl;
+ cout << string1 << "is not a Palindrome" << endl; } 
 else
  cout << string1 << "is a Palindrome" << endl;
 return 0;
