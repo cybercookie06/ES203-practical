@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-// Function overloading: same function name "AREA",
+// Function overloading:keeping same function name "AREA",
 // different parameter list
 
 // Circle (radius)
